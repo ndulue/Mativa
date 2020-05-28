@@ -11,6 +11,7 @@
         "php": "^7.2",
         "cartalyst/stripe-laravel": "^11.0",
         "fideloper/proxy": "^4.0",
+        "kingflamez/laravelrave": "^2.0",
         "laravel/framework": "^6.2",
         "laravel/tinker": "^2.0",
         "stripe/stripe-php": "^7.27"
